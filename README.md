@@ -1,6 +1,6 @@
 # A simple Github Pages template for academic personal website.
 
-[![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/senli1073.github.io/main/screenshot_full.png)](https://HongyuChen2022.io/)
+[![Screenshot of the Website](https://github.com/HongyuChen2022/HongyuChen2022.github.io/blob/main/screencapture.png)](https://github.com/HongyuChen2022/HongyuChen2022.github.io)
 
 ## Introduction
 
