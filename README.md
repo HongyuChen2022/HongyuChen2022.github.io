@@ -1,6 +1,6 @@
 # A simple Github Pages template for academic personal website.
 
-[![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/senli1073.github.io/main/screenshot_full.png)](https://senli1073.github.io/)
+[![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/senli1073.github.io/main/screenshot_full.png)](https://HongyuChen2022.io/)
 
 ## Introduction
 
@@ -8,7 +8,7 @@ This is an academic personal website template based on bootstrap.
 
 This template supports markdown files as input content, and you don't need to build the webpage before deployment. When the webpage is loaded, the markdown files will be automatically parsed and embedded into the page.
 
-Demo: https://senli1073.github.io/
+Demo: https://HongyuChen2022.github.io/
 
 
 ## Getting Start
@@ -55,4 +55,4 @@ Fire up a browser and go to `https://<username>.github.io`
 
 ## License
 
-Copyright 2023, Sen Li and controlled via the MIT license, a permissive open-source (free software) license. You can copy and mess with this template.
+Copyright 2023, Hongyu Chen and controlled via the MIT license, a permissive open-source (free software) license. You can copy and mess with this template.
