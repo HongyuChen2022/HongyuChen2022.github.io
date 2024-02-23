@@ -3,12 +3,14 @@
   
 
 
-- First-prize Academic Scholarship, 2023.
+- Excellent Graduation Thesis of JISU, 2018.
 
-- Freshman Academic Scholarship, 2022.
+- National Scholarship (China), 2017.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- National Grant (China), 2017
 
-- First-prize Enterprise Scholarship, 2021.
+- Single Award scholarship of Jilin Provincial Discipline Competition, 2016.
 
-- First-prize Academic Scholarship, 2019.
+- National Encouragement Scholarship (China), 2015.
+
+- National Grant (China), 2015.
