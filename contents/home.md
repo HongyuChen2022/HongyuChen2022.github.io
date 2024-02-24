@@ -23,6 +23,6 @@ As a computational social scientist by training, my research interest mainly foc
 
 - 08.2014 - 06.2018, Bachelor of Arts in Business English, **Jilin International Studies University, China**
 
-#### Research Intersts
+#### Research Interests
 Computational Social Science，Natural Language Processing, Cultural Sociology 
 
