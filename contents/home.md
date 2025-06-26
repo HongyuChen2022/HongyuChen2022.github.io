@@ -4,9 +4,8 @@ My research interest mainly focuses on Natural Language Processing (NLP) ethics 
 
 #### Publication
 
-- [2024] what can go wrong in authorship profiling: cross-domain analysis of gender and age prediction 
-  
-  Hongyu Chen, Michael Roth, Agnieszka Faleńska. https://aclanthology.org/2024.gebnlp-1.9.pdf
+- [What Can Go Wrong in Authorship Profiling: Cross-Domain Analysis of Gender and Age Prediction](https://aclanthology.org/2024.gebnlp-1.9/)
+  (Hongyu Chen, Michael Roth, Agnieszka Faleńska, GeBNLP 2024).
 
 
 #### Under Reivew
