@@ -4,12 +4,12 @@ As a computational social scientist working with language data, my research inte
 
 Before my PhD, I worked with [**Dr. Jacob Habinek**](https://www.jacobhabinek.net/) on understanding Nobel Prize Committee's decision in nominating Prize candidates.
 
-Besides my work in academia, I am music lover and produce music. Free free to check me out at spotify: [Hongyu Chen](https://open.spotify.com/artist/0FLRf9S5Pk8uQyV22ZPo6s?si=GO54hukrSy-Br7EmRlL11w) 
+Besides my work in academia, I am a music lover and produce music. Free free to check me out at spotify: [Hongyu Chen](https://open.spotify.com/artist/0FLRf9S5Pk8uQyV22ZPo6s?si=GO54hukrSy-Br7EmRlL11w) 
 
 #### Publication
-[“Feels Feminine to Me”: Understanding Perceived Gendered Style through Human Annotations] (https://aclanthology.org/people/hongyu-chen/unverified/) (**Hongyu Chen**, Neele Falk, Michael Roth, Agnieszka Faleńska, EMNLP 2025)
+[“Feels Feminine to Me”: Understanding Perceived Gendered Style through Human Annotations](https://aclanthology.org/people/hongyu-chen/unverified/) (**Hongyu Chen**, Neele Falk, Michael Roth, Agnieszka Faleńska, EMNLP 2025)
 
-[What Can Go Wrong in Authorship Profiling: Cross-Domain Analysis of Gender and Age Prediction] (https://aclanthology.org/2024.gebnlp-1.9/) (**Hongyu Chen**, Michael Roth, Agnieszka Faleńska, GeBNLP ACL 2024).
+[What Can Go Wrong in Authorship Profiling: Cross-Domain Analysis of Gender and Age Prediction](https://aclanthology.org/2024.gebnlp-1.9/) (**Hongyu Chen**, Michael Roth, Agnieszka Faleńska, GeBNLP ACL 2024).
 
 
 #### Working Paper
