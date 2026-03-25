@@ -3,7 +3,7 @@
   
 
 
-- Nov 2025, EMNLP 2025, Suzhou, China.
+- Nov 2025, at EMNLP 2025, Suzhou, China.
 
 - August 2024, at Gender Bias workshop ACL 2024, Bangkok, Thailand.
 
