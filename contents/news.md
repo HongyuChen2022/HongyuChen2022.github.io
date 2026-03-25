@@ -1,7 +1,7 @@
 
 
   
-
+- May 26-29, 2026, at NLPercep workshop and main conference at ICWSM 2026, Los Angeles, USA
 
 - Nov 2025, at EMNLP 2025, Suzhou, China.
 
