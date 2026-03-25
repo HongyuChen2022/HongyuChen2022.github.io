@@ -2,6 +2,8 @@ I am currently a PhD student (since Feb 2023) at the **Unversity of Stuttgart**,
 
 As a computational social scientist working with language data, my research interest spreads across perception-centered NLP, computational social science, digital humanities and Human-LLMs interaction. My PhD is mainly focused on gendered language style from human perception perspective - how human **perceive** gendered style from language and how human cognitively identify the gendered signals from language; I am also interested in style transfer and evaluation of style bias in LLMs.
 
+I am also the main organizer of the workshop [**Centering Social Perception in Natural Language Processing (NLPercep)**](https://nlpercep.github.io/workshop/) at ICWSM 2026. By launching this workshop, we aim to draw the attention on how people form impressions from languages (intention, judgement, politeness, demographics, etc.) and gather researchers interested in social perception and computational approaches to it.
+
 Before my PhD journey, I worked with [**Dr. Jacob Habinek**](https://www.jacobhabinek.net/) on understanding Nobel Prize Committee's decision in nominating Prize candidates.
 
 Besides my work in academia, I am a music lover and produce music. Free free to check my work out at spotify: [Hongyu Chen](https://open.spotify.com/artist/0FLRf9S5Pk8uQyV22ZPo6s?si=GO54hukrSy-Br7EmRlL11w) 
