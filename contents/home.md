@@ -20,7 +20,8 @@ Besides my work in academia, I am a music lover and produce music. Free free to 
 
 #### Contact
 - Email: hongyu.chen[at]iris.uni-stuttgart.de
-- Linkedin: [Hongyu Chen](https://www.linkedin.com/in/hongyu-chen-534268203?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+- [Linkedin](https://www.linkedin.com/in/hongyu-chen-534268203?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+- [Google Scholar](https://scholar.google.com/citations?user=hnyQrlUAAAAJ&hl=en)
 
 
 <!--
