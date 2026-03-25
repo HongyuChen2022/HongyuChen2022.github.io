@@ -1,10 +1,10 @@
 I am currently a PhD student (since Feb 2023) at the **Unversity of Stuttgart**, in the project of **IRIS3D: "Reflecting Intelligent Systems for Diversity, Demography, and Democracy"** under the supervison of [**Dr. Agnieszka Faleńska**](https://www.ims.uni-stuttgart.de/institut/team/Falenska/) and [**Prof.Dr. Michael Roth**](https://www.ims.uni-stuttgart.de/en/institute/team/Roth-00006/). 
 
-As a computational social scientist working with language data, my research interest spreads across Perception-centered NLP, computational social science, digital humanities and Human-LLMs interaction. My PhD is mainly focused on gendered language style from human perception perspective - how human **perceive** gendered style from language and how human cognitively identify the gendered signals from language; I am also interested in style transfer and evaluation of style bias in LLMs.
+As a computational social scientist working with language data, my research interest spreads across perception-centered NLP, computational social science, digital humanities and Human-LLMs interaction. My PhD is mainly focused on gendered language style from human perception perspective - how human **perceive** gendered style from language and how human cognitively identify the gendered signals from language; I am also interested in style transfer and evaluation of style bias in LLMs.
 
 Before my PhD, I worked with [**Dr. Jacob Habinek**](https://www.jacobhabinek.net/) on understanding Nobel Prize Committee's decision in nominating Prize candidates.
 
-Besides my work in academia, I am a music lover and produce music. Free free to check me out at spotify: [Hongyu Chen](https://open.spotify.com/artist/0FLRf9S5Pk8uQyV22ZPo6s?si=GO54hukrSy-Br7EmRlL11w) 
+Besides my work in academia, I am a music lover and produce music. Free free to check my work out at spotify: [Hongyu Chen](https://open.spotify.com/artist/0FLRf9S5Pk8uQyV22ZPo6s?si=GO54hukrSy-Br7EmRlL11w) 
 
 #### Publication
 [“Feels Feminine to Me”: Understanding Perceived Gendered Style through Human Annotations](https://aclanthology.org/people/hongyu-chen/unverified/) (**Hongyu Chen**, Neele Falk, Michael Roth, Agnieszka Faleńska, EMNLP 2025)
