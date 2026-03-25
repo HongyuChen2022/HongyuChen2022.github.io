@@ -20,6 +20,10 @@ Besides my work in academia, I am a music lover and produce music. Free free to 
 
 - Something about text style transfer (currently under peer-review)
 
+#### Teaching
+
+NLP & Computational social science (University of Stuttgart)
+
 #### Contact
 - Email: hongyu.chen[at]iris.uni-stuttgart.de
 - [Linkedin](https://www.linkedin.com/in/hongyu-chen-534268203?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
