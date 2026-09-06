@@ -1,6 +1,9 @@
 
 
-  
+- October 2026, at EMNLP 2026, Budapest, Hungary.
+
+- July 2026, invited talk at PhD session, Summer School Informatica Feminale Baden-Wurttemberg 2026, University of Freiburg 
+
 - May 26-29, 2026, at NLPercep workshop and main conference ICWSM 2026, Los Angeles, USA.
 
 - Nov 2025, at EMNLP 2025, Suzhou, China.

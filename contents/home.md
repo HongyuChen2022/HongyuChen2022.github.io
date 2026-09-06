@@ -9,6 +9,8 @@ Before my PhD journey, I worked with [**Dr. Jacob Habinek**](https://www.jacobha
 Besides my work in academia, I am a music lover and produce music. Free free to check my work out at spotify: [Hongyu Chen](https://open.spotify.com/artist/0FLRf9S5Pk8uQyV22ZPo6s?si=GO54hukrSy-Br7EmRlL11w) 
 
 #### Publication
+Contrast Comes at a Cost: Prompting Large Language Models for Perception-Centered Gendered Style Transfer (**Hongyu Chen**, Neele Falk, Michael Roth, Agnieszka Faleńska, EMNLP 2026)
+
 [“Feels Feminine to Me”: Understanding Perceived Gendered Style through Human Annotations](https://aclanthology.org/people/hongyu-chen/unverified/) (**Hongyu Chen**, Neele Falk, Michael Roth, Agnieszka Faleńska, EMNLP 2025)
 
 [What Can Go Wrong in Authorship Profiling: Cross-Domain Analysis of Gender and Age Prediction](https://aclanthology.org/2024.gebnlp-1.9/) (**Hongyu Chen**, Michael Roth, Agnieszka Faleńska, GeBNLP ACL 2024).
