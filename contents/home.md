@@ -24,7 +24,7 @@ Contrast Comes at a Cost: Prompting Large Language Models for Perception-Centere
 
 #### Teaching
 
-NLP & Computational social science (University of Stuttgart)
+NLP & Computational social science (University of Stuttgart), winter semester 2025-2026
 
 #### Contact
 - Email: hongyu.chen[at]iris.uni-stuttgart.de
